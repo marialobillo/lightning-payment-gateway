@@ -1,0 +1,2 @@
+
+A payment gateway for the Lightning Network with merchant webhooks, written in Go. Idempotent payments, transactional outbox, double-entry ledger with reconciliation — designed as payment infrastructure, built and benchmarked at lab scale.
